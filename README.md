@@ -1,4 +1,4 @@
-# autoer
+# AutoER
 AutoER: Automatic UML Design Marking integrated into PrairieLearn
 
 ## License
