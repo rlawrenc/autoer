@@ -7,7 +7,7 @@ From the instructor perspective, the AutoER system is completely configurable in
 
 The figure below shows the user interface and a student answering the question. The question text contains markup that allows students to select particular words and phrases to add to the diagram. Context-sensitive pop-up menus allow for adding entities and attributes. As the student builds the diagram, it is displayed and can be edited by adding and removing entities, attributes, keys, and relationships. The system uses a text representation of the diagram when evaluating and providing feedback.
 
-AutoER is integrated into the PrairieLearn system and may also be deployed stand-alone.
+AutoER is integrated into the PrairieLearn system and may also be deployed stand-alone. This repository contains a course for use with PrairieLearn. To test the system in your own deployment, install PrairieLearn and import this repository as a course.
 
 <img src="autoed_fish.png" align="center" width="600">
 
