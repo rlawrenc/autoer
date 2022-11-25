@@ -9,6 +9,8 @@ The figure below shows the user interface and a student answering the question. 
 
 AutoER is integrated into the PrairieLearn system and may also be deployed stand-alone.
 
+<img src="autoed_fish.png" align="center" width="600">
+
 ## Publications
 
 1. S. Foss, T. Urazova, R. Lawrence, Automatic generation and marking of UML database design diagrams, SIGCSE 2022: The 53rd ACM Technical Symposium on Computer Science Education, Providence, RI, USA, March 3-5, 2022, Volume 1, ACM, 2022, pp. 626–632. doi:10.1145/3478431. https://dl.acm.org/doi/10.1145/3478431.3499376
