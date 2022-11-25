@@ -1,0 +1,22 @@
+{
+    "uuid": "6e403966-e570-4c6e-910e-1d92fc1ef2fb",
+    "type": "Homework",
+    "title": "Random Database Design",
+    "set": "Homework",
+    "number": "18",
+    "allowAccess": [
+        {
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "randomUML",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}

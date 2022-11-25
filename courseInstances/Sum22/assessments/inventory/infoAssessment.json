@@ -1,0 +1,22 @@
+{
+    "uuid": "a15c37f8-a260-4609-921e-a04f4252a6c3",
+    "type": "Homework",
+    "title": "Inventory",
+    "set": "Homework",
+    "number": "12",
+    "allowAccess": [
+      {
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Inventory",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}

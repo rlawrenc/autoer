@@ -1,0 +1,21 @@
+{
+    "uuid": "5d16a4a5-657b-4297-b757-a3700fd1a3f6",
+    "type": "Homework",
+    "title": "Claim",
+    "set": "Homework",
+    "number": "4",
+    "allowAccess": [{
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Claim",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}

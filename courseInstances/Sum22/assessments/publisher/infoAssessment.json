@@ -1,0 +1,22 @@
+{
+    "uuid": "a37f667f-8f59-4b80-8f38-7f247e8c9f68",
+    "type": "Homework",
+    "title": "Publisher",
+    "set": "Homework",
+    "number": "16",
+    "allowAccess": [
+        {
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Publisher",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}

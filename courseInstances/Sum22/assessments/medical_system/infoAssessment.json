@@ -1,0 +1,22 @@
+{
+    "uuid": "ef1c880f-4538-4c3a-bc11-8aa0d4a3bcdc",
+    "type": "Homework",
+    "title": "Medical System",
+    "set": "Homework",
+    "number": "13",
+    "allowAccess": [
+       {
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Medical_System",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}

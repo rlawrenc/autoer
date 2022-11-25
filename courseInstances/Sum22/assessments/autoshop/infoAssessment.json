@@ -1,0 +1,17 @@
+{
+    "uuid": "b93b61f2-9bed-42b8-a6b6-486112d29f3a",
+    "type": "Homework",
+    "title": "Autoshop",
+    "set": "Homework",
+    "number": "2",
+    "allowAccess": [{
+            "credit": 100
+        }],
+    "zones": [
+        {
+            "questions": [
+                {"id": "Autoshop",                "points": 10}
+            ]
+        }
+    ]
+}

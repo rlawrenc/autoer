@@ -1,0 +1,22 @@
+{
+    "uuid": "01ca6be2-bfb0-4fff-858f-e2eb53b0fc8a",
+    "type": "Homework",
+    "title": "Congress",
+    "set": "Homework",
+    "number": "5",
+    "allowAccess": [
+       {
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Congress",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}

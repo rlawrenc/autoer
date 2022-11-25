@@ -1,0 +1,22 @@
+{
+    "uuid": "2aede260-dede-487b-8c46-c0e06ef571dc",
+    "type": "Homework",
+    "title": "Game Database",
+    "set": "Homework",
+    "number": "9",
+    "allowAccess": [
+       {
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Game_Database",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}

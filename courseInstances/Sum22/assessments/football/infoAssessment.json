@@ -1,0 +1,21 @@
+{
+    "uuid": "1b52e1a4-d9eb-4154-8755-58ddebcbed28",
+    "type": "Homework",
+    "title": "Football",
+    "set": "Homework",
+    "number": "8",
+    "allowAccess": [{
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Football",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}

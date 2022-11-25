@@ -1,0 +1,22 @@
+{
+    "uuid": "540b7286-94a4-4e4f-8091-8864869f6b08",
+    "type": "Homework",
+    "title": "Hotel",
+    "set": "Homework",
+    "number": "11",
+    "allowAccess": [
+      {
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Hotel",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}

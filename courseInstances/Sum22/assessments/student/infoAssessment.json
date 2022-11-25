@@ -1,0 +1,22 @@
+{
+    "uuid": "7c8f2c41-0891-49a3-8076-d68ead170ff1",
+    "type": "Homework",
+    "title": "Student",
+    "set": "Homework",
+    "number": "17",
+    "allowAccess": [
+       {
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Student",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}

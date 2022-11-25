@@ -1,0 +1,21 @@
+{
+    "uuid": "cda37b24-69a2-4cfa-89fd-26799e29956a",
+    "type": "Homework",
+    "title": "Banks",
+    "set": "Homework",
+    "number": "3",
+    "allowAccess": [{
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Banks",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}

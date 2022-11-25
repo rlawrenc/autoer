@@ -1,0 +1,21 @@
+{
+    "uuid": "1a9c05bf-1c35-4932-8c8e-2d9afac93516",
+    "type": "Homework",
+    "title": "Fish Store",
+    "set": "Homework",
+    "number": "7",
+    "allowAccess": [{
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Fish_Store",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}

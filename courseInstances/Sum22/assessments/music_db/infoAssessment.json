@@ -1,0 +1,22 @@
+{
+    "uuid": "114c4474-886b-4f19-ab84-4e18ff5fd21a",
+    "type": "Homework",
+    "title": "Music DB",
+    "set": "Homework",
+    "number": "14",
+    "allowAccess": [
+        {
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Music_DB",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}

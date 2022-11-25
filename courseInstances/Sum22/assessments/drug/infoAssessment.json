@@ -1,0 +1,22 @@
+{
+    "uuid": "9e6d3944-357b-4aeb-a078-839e49caa550",
+    "type": "Homework",
+    "title": "Drug",
+    "set": "Homework",
+    "number": "6",
+    "allowAccess": [
+       {
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Drug",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}

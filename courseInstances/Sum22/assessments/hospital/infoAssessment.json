@@ -1,0 +1,22 @@
+{
+    "uuid": "2762eab9-f7e9-4a2f-8a37-37a70bf64bb3",
+    "type": "Homework",
+    "title": "Hospital",
+    "set": "Homework",
+    "number": "10",
+    "allowAccess": [
+       {
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "questions": [
+                {
+                    "id": "Hospital",
+                    "points": 10
+                }
+            ]
+        }
+    ]
+}
