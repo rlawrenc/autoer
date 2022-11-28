@@ -9,7 +9,7 @@ The figure below shows the user interface and a student answering the question. 
 
 AutoER is integrated into the PrairieLearn system and may also be deployed stand-alone. This repository contains a course for use with PrairieLearn. To test the system in your own deployment, install PrairieLearn and import this repository as a course.
 
-<img src="autoed_fish.png" align="center" width="600">
+<img src="img/autoed_fish.png" align="center" width="600">
 
 ## Publications
 
@@ -17,6 +17,20 @@ AutoER is integrated into the PrairieLearn system and may also be deployed stand
 
 2. S. Foss, T. Urazova, R. Lawrence, Learning UML database design and modeling with AutoER, Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings, MODELS 2022, Montreal, Quebec, Canada, October 23-28, 2022, ACM, 2022, pp. 42–45. https://doi.org/10.1145/3550356.3559091
 
+## Installation
+
+1. Setup PrairieLearn using the [Docker deployment instructions](https://prairielearn.readthedocs.io/en/latest/docker/).
+
+2. Clone this repository and put it into the directory TODO.
+
+3. Open a browser to URL http://localhost:3000. PrairieLearn will be running in development mode. Click on ``Load from disk`` to load course directory containing the AutoER code and questions into PrairieLearn instance.
+
+![homePage.png](img/homePage.png)
+
+- Once load from disk is complete, courses properly mounted will be visible to access.
+![loadFromDisk.png](img/loadFromDisk.png)
+
+4. 
 
 ## License
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
