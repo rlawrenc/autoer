@@ -34,6 +34,15 @@ AutoER is integrated into the PrairieLearn system and may also be deployed stand
 
 1. A video demonstrating use is [available](https://www.youtube.com/watch?v=Cxi6Jq4MyDk). From main PrairieLearn home screen, select the course AutoER Demo. 
 
+## File Description
+
+- The folders `clientFilesCourse`, `courseInstances/Sum22`, and `serverFilesCourse` are files used by PrairieLearn to define a course and course instance. They can be modified for your own course.
+
+- The main code base for the AutoER system is in the folder `elements/pl-uml-element` that contains the custom PrairieLearn element for graphically creating UML/ER diagrams and performing auto-marking.
+    - Key files: `randomgrader.py` - performs grading, `pl-uml-element.py` - defines the overall element, `randomgeneration.py` - random question generator
+
+- The `questions` folder contains the sample questions. Each question has an `info.json` file that defines its metadata including title, and a `question.html` that provides the question text markup, answer(s), and marking guide. New questions can be created using the PrairieLearn user interface or by copying one of the question folders and editing its `info.json` and `question.html` files.
+
 ## License
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
