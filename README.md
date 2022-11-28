@@ -30,7 +30,9 @@ AutoER is integrated into the PrairieLearn system and may also be deployed stand
 - Once load from disk is complete, courses properly mounted will be visible to access.
 ![loadFromDisk.png](img/loadFromDisk.png)
 
-4. 
+## Usage
+
+1. A video demonstrating use is [available](https://www.youtube.com/watch?v=Cxi6Jq4MyDk). From main PrairieLearn home screen, select the course AutoER Demo. 
 
 ## License
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
