@@ -15,9 +15,9 @@ Instructors create questions by editing the `question.html` file. The HTML docum
 
 The `uml-answer` tag contains an answer to the question in the text format. If there is more than one answer, put more than one `uml-answer` element. The system will mark against all answers and give the student the highest mark from any of the answers. The answer text format is entities in square brackets. Attributes are after the `|`. Attributes designed as primary keys are annotated with `{PK}` and partial primary keys as `{PPK}`. Relationships consist of the entity name, the cardinality, a separator `-`, the other cardinality, then the other entity name. See the example below.
 
-Marking is customizable to award different marks for entities, attributes, keys, and relationships. This can be modifeid by changing the weights in the `uml-marking` entity.
+Marking is customizable to award different marks for entities, attributes, keys, and relationships. This can be modified by changing the weights in the `uml-marking` entity.
 
-<img src="img/fish_answer.png" align="center" width="600">
+<img src="img/fish_answer.png" align="center" width="900">
 
 ## Publications
 
