@@ -11,6 +11,14 @@ AutoER is integrated into the PrairieLearn system and may also be deployed stand
 
 <img src="img/autoed_fish.png" align="center" width="600">
 
+Instructors create questions by editing the `question.html` file. The HTML document has a root element `pl-uml-element`. If `random=False`, the question is instructor created and has only one variant. Otherwise, a random question and answer is generated each time the student attempts the question. The instructor can set the maximum grade using the `max-grade` attribute. The question markup is in a `uml-question` tag. This text appears to the user. Any element specified in square brackets is shown as a link and the text following in round brackets is the text that is added to the diagram. In the image below, `[aquaria](tank)` will have the link on the word `aquaria` and when added to the diagram the word `tank` is used. This markup allows for the written text to be different than the names used in the diagram. The system marks based on the diagram names.
+
+The `uml-answer` tag contains an answer to the question in the text format. If there is more than one answer, put more than one `uml-answer` element. The system will mark against all answers and give the student the highest mark from any of the answers. The answer text format is entities in square brackets. Attributes are after the `|`. Attributes designed as primary keys are annotated with `{PK}` and partial primary keys as `{PPK}`. Relationships consist of the entity name, the cardinality, a separator `-`, the other cardinality, then the other entity name. See the example below.
+
+Marking is customizable to award different marks for entities, attributes, keys, and relationships. This can be modifeid by changing the weights in the `uml-marking` entity.
+
+<img src="img/fish_answer.png" align="center" width="600">
+
 ## Publications
 
 1. S. Foss, T. Urazova, R. Lawrence, Automatic generation and marking of UML database design diagrams, SIGCSE 2022: The 53rd ACM Technical Symposium on Computer Science Education, Providence, RI, USA, March 3-5, 2022, Volume 1, ACM, 2022, pp. 626–632. doi:10.1145/3478431. https://dl.acm.org/doi/10.1145/3478431.3499376
